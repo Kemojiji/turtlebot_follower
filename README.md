@@ -31,7 +31,7 @@ $ sudo apt-get install ros-kinetic-turtlebot3
 $ cd ~/catkin_ws/
 $ catkin_make
 $ cd ~/catkin_ws/src
-$ git clone https://github.com/DongjaeLee95/ROS_turtlebot_teleop.git
+$ git clone https://github.com/Kemojiji/turtlebot_follower.git
 $ cd ~/catkin_ws/
 $ catkin_make
 ````
