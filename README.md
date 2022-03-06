@@ -44,3 +44,8 @@ $ roslaunch turtlebot_follower turtlebot_follower.launch
 ```
 ## Viedo
 (https://youtu.be/USkKm8jqA9A)
+## Ensure the code is working 
+- Double check the dependencies
+- Source the environemnt befor roslaunch 
+- I will frequently update the this github repository if i made change on my local machine
+- The next step can be use Docker to deploy it. Docker is a virtualization technique that packages the entire code and the environment, then deploys the applications on a different local machine without sharing any OS or system-level resources.
